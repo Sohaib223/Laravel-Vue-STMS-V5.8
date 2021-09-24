@@ -1,0 +1,13 @@
+Site Link:
+
+https://webdev.p-link.net
+
+Login Details Admin : 
+
+email: admin@yoursite.com
+password: 12345678
+
+Login Details Customer :
+
+email: huzzee.24.sidd@gmail.com
+password : 12345678
